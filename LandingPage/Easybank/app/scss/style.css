@@ -30,6 +30,10 @@ body {
 .header nav {
   padding: 24px;
 }
+.header__logo img {
+  width: 8.8125rem;
+  height: 1.375rem;
+}
 .header__menu > span {
   display: block;
   width: 26px;
