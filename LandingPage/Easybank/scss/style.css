@@ -32,4 +32,7 @@ body {
   width: 26px;
   height: 2px;
   background-color: hsl(233, 26%, 24%);
+}
+.header__menu > span:not(:last-child) {
+  margin-bottom: 3px;
 }/*# sourceMappingURL=style.css.map */
